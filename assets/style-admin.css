@@ -1,0 +1,177 @@
+.hvac_admin_container {
+    background-color: #fff;
+    padding: 39px;
+    box-shadow: 5px 15px 15px 15px #c5c5c557;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#load_all_products{
+    border: 1px #ccc solid;
+    border-radius: 23px;
+    color: #333333ed;
+    background: darkseagreen;
+    cursor: pointer;
+    padding: 8px 8px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.ewm_text_field_details{
+	width: 100%;
+}
+
+.parent_cat_selects{
+    width: 22%;
+    min-width: 100px;
+    float: left;
+    border: 1px solid rgb(187 186 186 / 8%) ;
+    padding: 6px;
+}
+
+
+.ewm_cat_s_i{
+	margin-top:1px !important;
+}
+
+.select_brand_parent{
+	width: 95%;
+    background-color: #9acd32a1;
+    padding: 10px 10px 10px 12px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.product_brand_data_hidden{
+    width: 100% !important;
+    border-radius: 8px !important;
+    padding: 0px 13px !important;
+}
+
+.main_brand_and_cats
+{
+
+    border: 1px solid #c4c3c321;
+    overflow: hidden;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+
+.ewm_cat_list{
+
+    border:1px gray solid;
+    margin-top:2px !important;
+    float:left;
+    padding:10px 30px;
+    cursor:pointer;
+
+}
+.ewm_cat_selected{
+
+    background: #333 ;
+    color: #fff ;
+
+}
+
+.top_parent_in_filter{
+        width: 100%;
+        overflow: hidden;
+}
+
+#ewm_add_filter_section{
+    color: #333;
+    background-color: #adff2f59;
+    padding: 8px 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.ewm_hf_hidden_body_sections{
+    display:none;
+}
+
+.ewm_add_details_value{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.ewm_hf_delete_button{
+    width: 25%;
+    display: none;
+    float: right;
+}
+
+.ewm_del_sec_button{
+    float: right;
+    background-color: #fff;
+    border: 1px var(--wc-orange) solid;
+    border-radius: 5px;
+    color: var(--wc-subtext);
+    padding: 5px 30px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.ewm_close_right{
+    float: right;
+    padding: 5px 15px;
+    border: 1px solid #8b898978;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ewm_close_top_menu{
+    width: 100%;
+}
+.ewm_out_blur{
+    width: 100% ;
+    height: 100% ;
+    background-color:#0000004a;
+    position: absolute;
+    left: -20px;
+    top: 0px;
+    display:none;
+}
+.ewm_inner_body{
+
+    background-color: #fff;
+    border-radius: 5px;
+    width: 60%;
+    position: fixed;
+    top: 15%;
+    height: 350px;
+    left: 20%;
+    padding: 20px;
+
+}
+.ewm_submit_continue{
+
+    float: left;
+    padding: 10px 30px;
+    color: white;
+    background-color: #0078d5;
+    border:1px solid #0078d5;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.ewm_submit_cancel{
+
+    float: left;
+    padding: 10px 30px;
+    color: white;
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+    border:1px gray solid;
+
+}
+.ewm_lower_controls_body{
+    padding: 50px;
+    width: 240px ;
+}
+.ewm_hf_main_body{
+    padding: 10% 10% 0% 10% ;
+}
